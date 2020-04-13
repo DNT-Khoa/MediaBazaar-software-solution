@@ -33,8 +33,8 @@ namespace MediaBazaarSolution
             scheduleForm = new ScheduleForm();
             depotAddForm = new DepotAddForm(this, dgvDepot);
 
-            depot = new Depot();
-            depot.LoadDepot(dgvDepot);
+            //depot = new Depot();
+            //depot.LoadDepot(dgvDepot);
         }
 
         private void btnEditSchedule_Click(object sender, EventArgs e)

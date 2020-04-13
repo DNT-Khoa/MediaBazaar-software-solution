@@ -16,14 +16,20 @@ namespace MediaBazaarSolution
         public LogInScreen()
         {
             InitializeComponent();
-            //Testing purposes
-            MainScreen mainScreen = new MainScreen();
-            mainScreen.Show();
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void LogInBtn_Click(object sender, EventArgs e)
+        {
+            //Testing purposes
+            MainScreen mainScreen = new MainScreen();
+            mainScreen.Show();
+            this.Hide();
         }
     }
 }
