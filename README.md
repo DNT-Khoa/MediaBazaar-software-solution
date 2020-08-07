@@ -1,4 +1,7 @@
 # Media Bazaar Software Solution
+<p align="center">
+  <img src="https://github.com/DNT-Khoa/Administration-Project-S2-CB06/blob/master/images/logo.png" width="300" title="MangaMe Logo">
+</p>
 This project is organized at the end of my second semester in my first year at university. I worked full stack of the project website and the backend for the windows form application. Me and the other three teammates were working together to help a virtual startup company called **Media Bazaar** establish its reputation in the city of Eindhoven. More details is included in the Project Description in the documents folder!
 
 * [General info](#general-info)
