@@ -43,8 +43,7 @@ Our company LogiK will strive to make a reliable, robust and user-friendly softw
 ![App Employee Page](https://github.com/DNT-Khoa/Administration-Project-S2-CB06/blob/master/images/App%20Employee.PNG)
 ![App Depot Page](https://github.com/DNT-Khoa/Administration-Project-S2-CB06/blob/master/images/App%20Depot.PNG)
 ![App Statistics Page](https://github.com/DNT-Khoa/Administration-Project-S2-CB06/blob/master/images/App%20Statistic.PNG)
-![App Mailing Page](![App Statistics Page](https://github.com/DNT-Khoa/Administration-Project-S2-CB06/blob/master/images/App%20Statistic.PNG)
-![App Mailing Page](![App Statistics Page](https://github.com/DNT-Khoa/Administration-Project-S2-CB06/blob/master/images/App%20Statistic.PNG)
+![App Mailing Page](https://github.com/DNT-Khoa/Administration-Project-S2-CB06/blob/master/images/App%20Mail.PNG)
 ![App Order Page](https://github.com/DNT-Khoa/Administration-Project-S2-CB06/blob/master/images/App%20Orders.PNG)
 
 
